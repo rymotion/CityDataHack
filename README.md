@@ -1,4 +1,2 @@
-[master 0a00954] basic server setup need to read .csv pass as json and boot ESRI/Googlemaps to put things with coordintates on the map
- 4 files changed, 51 insertions(+), 11 deletions(-)
- copy server.py => readFile.py (100%)
- rewrite server.py (98%)
+[master c2d641e] update to the readfile.py and the HTML front end of the web app
+ 3 files changed, 6 insertions(+), 7 deletions(-)
