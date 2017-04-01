@@ -12,6 +12,3 @@ for row in csv_f:
 	name = row[4]
 	
 	CoorDic = {'X': x, 'Y': y, 'School': name}
-
-	print x
-	print y

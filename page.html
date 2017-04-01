@@ -1,43 +1,113 @@
-<!-- This will be the UI of the web app and this will call either the Google or Esri API need to read in more... -->
 <!DOCTYPE html>
 <html>
-	<head>
-		<link rel="stylesheet" href="https://js.arcgis.com/4.3/esri/css/main.css">
-		<script src="https://js.arcgis.com/4.3/"></script>
-		<script>
-			require([
-				// right now I have ESRI's API being used and recognized might flip to google's IDK they are almost the same.
-				// either way I have to get this to communicate with the python server
-				"esri/WebMap",
-				"esri/views/MapView",
-				"dojo/domReady!"
-				], function(WebMap, MapView){
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Marker Clustering</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+        height: 100%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
 
-					var webmap = new WebMap({
-						portalItem: {
-							id:""
-						}
-					});
-					var view = new mapView({
-						container: "viewDiv",
-						map: webmap
-					}); 
+      function initMap() {
 
-				});
-		</script>
-		<meta charset= "utf-8">
-		<meta name= "viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
-			<title>LA Data</title>
-			<style>
-				html, body, #viewDiv{
-					padding: 0;
-					margin: 0;
-					height: 100%;
-					width: 100%;
-				}
-			</style>
-		</head>
-	<body>
-		<div id="viewDiv"></div>
-	</body>
-</html>>
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 3,
+          center: {lat: -28.024, lng: 140.887}
+        });
+
+        // Create an array of alphabetical characters used to label the markers.
+        var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+        // Add some markers to the map.
+        // Note: The code uses the JavaScript Array.prototype.map() method to
+        // create an array of markers based on a given "locations" array.
+        // The map() method here has nothing to do with the Google Maps API.
+        var markers = locations.map(function(location, i) {
+          return new google.maps.Marker({
+            position: location,
+            label: labels[i % labels.length]
+          });
+        });
+
+        // Add a marker clusterer to manage the markers.
+        var markerCluster = new MarkerClusterer(map, markers,
+            {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+      }
+      var locations = [
+        {lat: -118.5292411, lng: lng: 34.18961077},
+        {lat: -118.5384185, lng: lng: 34.1852606},
+        {lat: -118.5472021, lng:34.18335362},
+        {lat: -118.5650222, lng: 34.18185073},
+        {lat: -118.5253198, lng: 34.22330155},
+        {lat: -118.5066064, lng: 34.212978},
+        {lat: -118.5131302, lng: 34.21648562},
+        {lat: -118.5142699, lng: 34.20324062},
+        {lat: -118.5155803, lng: 34.19296046},
+        {lat: -118.505353, lng:34.19274774},
+        {lat: -118.5283736, lng: 34.20559787},
+        {lat: -118.4992961, lng: 34.22768133},
+        {lat: -118.4708166, lng:34.23018338},
+        {lat: -118.4596177, lng: 34.20659058},
+        {lat: -118.4608147, lng: 34.18365608},
+        {lat: -118.4775365, lng: 34.19540369},
+        {lat: -118.4782673, lng: 34.20761792},
+        {lat: -118.4155413, lng: 34.21300918},
+        {lat: -118.4009034, lng: 34.21495893},
+        {lat: -118.4039417, lng: 34.22394713},
+        {lat: -118.3827677, lng: 34.21499588},
+        {lat: -118.3827263, lng: 34.20579793},
+        {lat: -118.376381, lng:34.20324087},
+        {lat: -118.3756279, lng: 34.18946504},
+        {lat: -118.3929804, lng: 34.18569727},
+        {lat: -118.2886891, lng: 33.83794351},
+        {lat: -118.2828068, lng: 33.8223589},
+        {lat: -118.2739492, lng: 33.82221908},
+        {lat: -118.2609246, lng: 33.85584278},
+        {lat: -118.2518211, lng: 33.85416309},
+        {lat: -118.3207816, lng: 33.80143642},
+        {lat: -118.3139437, lng: 33.78825179},
+        {lat: -118.3053834, lng: 33.80294102},
+        {lat: -118.315632, lng:33.76593054},
+        {lat: -118.3040061, lng: 33.75349067},
+        {lat: -118.3092044, lng: 33.74068853},
+        {lat: -118.3107721, lng: 33.73862725},
+        {lat: -118.3225717, lng: 33.72323958},
+        {lat: -118.2984161, lng: 33.76254945},
+        {lat: -118.2889751, lng: 33.7464855},
+        {lat: -118.2936921, lng: 33.73744167},
+        {lat: -118.295767, lng:33.73026041},
+        {lat: -118.2867974, lng: 33.73016402},
+        {lat: -118.3001005, lng: 33.72473941},
+        {lat: -118.307347, lng:33.71618957},
+        {lat: -118.2902397, lng: 33.71425563},
+        {lat: -118.3276201, lng: 33.99664531},
+        {lat: -118.4404535, lng: 34.30789161},
+        {lat: -118.5046066, lng: 34.18926},
+        {lat: -118.390039, lng:34.16671295},
+        {lat: -118.4033821, lng: 34.26994666},
+        {lat: -118.1643244, lng: 34.03965025},
+        {lat: -118.6048768, lng: 34.20433474},
+        {lat: -118.3747492, lng: 34.04639541},
+        {lat: -118.1846085, lng: 34.01715119}
+      ]
+    </script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAN3ZFLDQDNjnbr_1JKhppqeiilJJOeD3M&callback=initMap">
+    </script>
+  </body>
+</html>

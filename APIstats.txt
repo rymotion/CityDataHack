@@ -1,0 +1,975 @@
+        
+  Academia Moderna        -34
+  Academy for Enriched Sciences       -11
+  Accelerated       7
+  Accelerated Elementary Charter        -15
+  Albion Street Elementary        -16
+  Aldama Elementary       13
+  Alexandria Avenue Elementary        15
+  Allesandro Elementary       9
+  Alta California Elementary        -14
+  Alta Loma Elementary        -27
+  Ambassador School of Global Education       -12
+  Ambler Avenue Elementary        -41
+  Amestoy Elementary        -15
+  Anatola Avenue Elementary       33
+  Andasol Avenue Elementary       14
+  Andres and Maria Cardenas Elementary        -28
+  Angeles Mesa Elementary       22
+  Annalee Avenue Elementary       -39
+  Annandale Elementary        -10
+  Apperson Street Elementary        -26
+  Apple Academy Charter Public     0
+  Aragon Avenue Elementary        -17
+  Ararat Charter        -1
+  Arlington Heights Elementary        -23
+  Arminta Street Elementary       -46
+  Arroyo Seco Museum Science        16
+  Arts In Action Community Charter        61
+  Ascot Avenue Elementary       -21
+  Aspire Antonio Maria Lugo Academy       14
+  Aspire Firestone Academy        25
+  Aspire Gateway Academy        6
+  Aspire Huntington Park Charter        -28
+  Aspire Inskeep Academy Charter        3
+  Aspire Juanita Tate Academy Charter       4
+  Aspire Slauson Academy Charter        26
+  Atwater Avenue Elementary       -27
+  Aurora Elementary       -55
+  Avalon Gardens Elementary       14
+  Balboa Gifted/High Ability Magnet Elemen        -3
+  Baldwin Hills Elementary        -6
+  Bandini Street Elementary       -20
+  Barton Hill Elementary        -16
+  Bassett Street Elementary       -5
+  Beachy Avenue Elementary        -2
+  Beckford Charter for Enriched Studies       9
+  Beethoven Street Elementary       -11
+  Bellingham Elementary    0
+  Belvedere Elementary        -19
+  Bertrand Avenue Elementary        -15
+  Betty Plasencia Elementary        -2
+  Birdielee V. Bright Elementary        -30
+  Blythe Street Elementary        -1
+  Bonita Street Elementary        7
+  Braddock Drive Elementary       21
+  Brainard Elementary       -2
+  Breed Street Elementary       -14
+  Brentwood Science       -11
+  Bridge Street Elementary        -32
+  Broad Avenue Elementary       -8
+  Broadacres Avenue Elementary        -3
+  Broadway Elementary       -1
+  Brockton Avenue Elementary        -19
+  Brooklyn Avenue Elementary        17
+  Bryson Avenue Elementary        0
+  Buchanan Street Elementary        -23
+  Budlong Avenue Elementary       -30
+  Burbank Boulevard Elementary        18
+  Burton Street Elementary        -6
+  Bushnell Way Elementary       32
+  Cabrillo Avenue Elementary        -15
+  Cahuenga Elementary       -15
+  Calabash Charter Academy        11
+  Calahan Street Elementary       -31
+  Calvert Street Elementary       -4
+  Camellia Avenue Elementary        26
+  Camino Nuevo Academy #2       11
+  Camino Nuevo Charter Academy        -3
+  Camino Nuevo Charter Academy No. 4        -15
+  Camino Nuevo Elementary No. 3       -15
+  Canfield Avenue Elementary        -5
+  Canoga Park Elementary        -7
+  Cantara Street Elementary       -19
+  Canterbury Avenue Elementary        -7
+  Canyon Elementary       7
+  Capistrano Avenue Elementary     0
+  Carlos Santana Arts Academy       10
+  Caroldale Learning Community        -5
+  Carpenter Community Charter       1
+  Carson Street Elementary        5
+  Carson-Gore Academy of Enviornmental Stu        -27
+  Carthay Center Elementary       -35
+  Castelar Street Elementary        22
+  Castle Heights Elementary       3
+  Castlebay Lane Charter        -13
+  Catskill Avenue Elementary        49
+  Celerity Dyad Charter       -17
+  Celerity Nascent Charter        19
+  Celerity Octavia Charter        8
+  Celerity Palmati Charter        29
+  Celerity Troika Charter       -19
+  Center for Advanced Learning        14
+  Central Region Elementary #21    0
+  Century Park Elementary       -21
+  Cesar Chavez Elementary       -17
+  Chandler Elementary       -23
+  Chapman Elementary        0
+  Charles H. Kim Elementary       11
+  Charles W. Barrett Elementary       -21
+  Charles White Elementary        -66
+  Charnock Road Elementary        12
+  Chase Street Elementary       -38
+  Chatsworth Park Elementary        -32
+  Cheremoya Avenue Elementary       2
+  CHIME Institute's Schwarzenegger Communi        -19
+  Christopher Dena Elementary       8
+  Cienega Elementary        26
+  Cimarron Avenue Elementary        34
+  Citizens of the World Charter       -16
+  City Charter Middle    0
+  City Terrace Elementary       26
+  CLAS Affirmation        15
+  Clifford Street Elementary        17
+  Clover Avenue Elementary        -4
+  Coeur D'Alene Avenue Elementary       -14
+  Cohasset Street Elementary        -19
+  Coldwater Canyon Elementary       -21
+  Colfax Charter Elementary       5
+  Coliseum Street Elementary        -49
+  Columbus Avenue       -9
+  Commonwealth Avenue Elementary        10
+  Community Magnet Charter Elementary       0
+  Compton Avenue Elementary       -39
+  Corona Avenue Elementary        -5
+  Cowan Avenue Elementary       -11
+  Crescent Heights Boulevard Elementary       11
+  Crestwood Street Elementary       0
+  Dahlia Heights Elementary       -10
+  Danny J. Bakewell, Sr., Primary Center        
+  Danube Avenue Elementary        -13
+  Darby Avenue Elementary       -21
+  Dayton Heights Elementary       -34
+  Dearborn Elementary Charter Academy       14
+  Del Amo Elementary        11
+  Delevan Drive Elementary        16
+  Denker Avenue Elementary        1
+  Dixie Canyon Community Charter        14
+  Dolores Huerta Elementary       6
+  Dolores Street Elementary       -7
+  Dominguez Elementary        9
+  Dorris Place Elementary       -12
+  Downtown Value        22
+  Dr. Lawrence H. Moore Math, Science, Tec     0
+  Dr. Owen Lloyd Knox Elementary        -2
+  Dr. Theo. T. Alexander Jr., Science Cent        -10
+  Dyer Street Elementary        -1
+  Eagle Rock Elementary       12
+  Eastman Avenue Elementary       1
+  El Dorado Avenue Elementary       -54
+  El Oro Way Charter For Enriched Studies       0
+  El Sereno Elementary        22
+  Ellen Ochoa Learning Center       6
+  Elysian Heights Elementary        -4
+  Emelita Street Elementary       -2
+  Enadia Technology Enriched Charter        -6
+  Encino Charter Elementary       -8
+  Equitas Academy Charter       26
+  Erwin Elementary        1
+  Eshelman Avenue Elementary        -18
+  Esperanza Elementary        -24
+  Estrella Elementary       8
+  Euclid Avenue Elementary        -31
+  Evergreen Avenue Elementary       -9
+  Extera Public       57
+  Fair Avenue Elementary        13
+  Fairburn Avenue Elementary        -35
+  Farmdale Elementary       -23
+  Fenton Avenue Charter       -7
+  Fenton Primary Center    0
+  Fernangeles Elementary        -45
+  Fifteenth Street Elementary       -5
+  Fifty-Fourth Street Elementary        -35
+  Fifty-Ninth Street Elementary       10
+  Fifty-Second Street Elementary        27
+  Figueroa Street Elementary        -12
+  First Street Elementary       -10
+  Fishburn Avenue Elementary        -41
+  Fletcher Drive Elementary       6
+  Florence Avenue Elementary        23
+  Florence Griffith Joyner Elementary       -21
+  Ford Boulevard Elementary       -13
+  Forty-Ninth Street Elementary       -33
+  Forty-Second Street Elementary        11
+  Fourth Street Elementary        -29
+  Frank del Olmo Elementary       -29
+  Franklin Avenue Elementary        2
+  Frederick Douglass Academy Elementary       11
+  Fries Avenue Elementary       -4
+  Fullbright Avenue Elementary        0
+  Futuro College Preparatory Elementary       -45
+  Gabriella Charter       0
+  Garden Grove Elementary       2
+  Gardena Elementary        10
+  Gardner Street Elementary       -7
+  Garr Academy of Math and Entrepreneurial        22
+  Garvanza Elementary       -32
+  Gates Street Elementary       5
+  Gault Street Elementary       -17
+  George De La Torre Jr. Elementary       1
+  Germain Academy For Academic Achievement        -29
+  Glassell Park Elementary        -7
+  Gledhill Street Elementary        -10
+  Glen Alta Elementary        13
+  Glenfeliz Boulevard Elementary        -20
+  Glenwood Elementary       -12
+  Global Education Academy        5
+  Goethe International Charter        30
+  Graham Elementary       -41
+  Granada Elementary        8
+  Grand View Boulevard Elementary       30
+  Grant Elementary        6
+  Grape Street Elementary       -27
+  Gratts Learning Academy for Young Schola        -5
+  Gridley Street Elementary       3
+  Griffin Avenue Elementary       -7
+  Gulf Avenue Elementary        6
+  Haddon Avenue Elementary        -10
+  Halldale Elementary       5
+  Hamlin Charter Academy        -9
+  Hancock Park Elementary       7
+  Harbor City Elementary        2
+  Harding Street Elementary       -36
+  Harmony Elementary        2
+  Harrison Street Elementary        -8
+  Harry Bridges Span     0
+  Hart Street Elementary        -2
+  Harvard Elementary        -16
+  Haskell Elementary        3
+  Hawaiian Avenue Elementary        -27
+  Haynes Charter For Enriched Studies       3
+  Hazeltine Avenue Elementary       -26
+  Heliotrope Avenue Elementary        -11
+  Herrick Avenue Elementary       6
+  Hesby Oaks Leadership Charter       0
+  Hillcrest Drive Elementary        15
+  Hillery T. Broadous Elementary        15
+  Hillside Elementary       -49
+  Hobart Boulevard Elementary       -12
+  Holmes Avenue Elementary        -16
+  Hooper Avenue Elementary        -21
+  Hooper Avenue Primary Center        
+  Hoover Street Elementary        25
+  Hope Street Elementary        5
+  Hubbard Street Elementary       -32
+  Humphreys Avenue Elementary       -10
+  Huntington Drive Elementary       -5
+  Huntington Park Elementary        -13
+  ICEF Vista Elementary Academy       22
+  Independence Elementary       -9
+  Ivanhoe Elementary        -6
+  Ivy Academia        -42
+  Jaime Escalante Elementary        32
+  John B. Monlux Elementary       -4
+  John W. Mack Elementary       -17
+  Judith F. Baca Arts Academy       8
+  Julie Korenstein Elementary       -40
+  Justice Street Academy Charter        7
+  Kenter Canyon Elementary        14
+  Kentwood Elementary       14
+  Kester Avenue Elementary        12
+  Kingsley Elementary       -9
+  KIPP Empower Academy     0
+  KIPP Raices Academy       9
+  Kittridge Street Elementary       -1
+  Knollwood Preparatory Academy       -29
+  La Salle Avenue Elementary        -26
+  Lafayette Park Primary Center       
+  Lake Street Primary       
+  Lanai Road Elementary       -12
+  Langdon Avenue Elementary       -35
+  Lankershim Elementary       -24
+  Larchmont Charter       -14
+  Larchmont Charter-West Hollywood        9
+  Lassen Elementary       15
+  Latona Avenue Elementary        -17
+  Laurel Elementary       -33
+  Leapwood Avenue Elementary        -9
+  Leland Street Elementary        -23
+  Lemay Street Elementary       -29
+  Lenicia B. Weemes Elementary        10
+  Leo Politi Elementary       -7
+  Liberty Boulevard Elementary        -1
+  Liggett Street Elementary       -1
+  Lillian Street Elementary       -2
+  Limerick Avenue Elementary        11
+  Lockhurst Drive Charter Elementary        -6
+  Lockwood Avenue Elementary        2
+  Logan Street Elementary       5
+  Loma Vista Elementary       -8
+  Lomita Math/Science/Technology Magnet       -4
+  Loren Miller Elementary       -17
+  Lorena Street Elementary        -4
+  Loreto Street Elementary        -39
+  Lorne Street Elementary       -5
+  Los Angeles Elementary        -9
+  Los Feliz Charter School for the Arts       -9
+  Los Feliz Elementary        -20
+  Lou Dantzler Preparatory Charter Element        3
+  Lovelia P. Flournoy Elementary        -36
+  Loyola Village Elementary       -44
+  Lucille Roybal-Allard Elementary     0
+  MacArthur Park Elementary School for the     0
+  Madison Elementary        -34
+  Magnolia Avenue Elementary        67
+  Magnolia Science Academy 7        -2
+  Main Street Elementary        4
+  Malabar Street Elementary       -10
+  Manchester Avenue Elementary        -18
+  Manhattan Place Elementary        59
+  Maple Primary Center        
+  Mar Vista Elementary        -8
+  Marianna Avenue Elementary        -1
+  Marlton       -13
+  Marquez Avenue Elementary       5
+  Martha Escutia Primary Center       
+  Martin Luther King Jr. Elementary       -36
+  Marvin Elementary       -6
+  Maurice Sendak Elementary       -3
+  Mayall Street Elementary        33
+  Mayberry Street Elementary        13
+  Maywood Elementary        -8
+  McKinley Avenue Elementary        -5
+  Melrose Avenue Elementary       2
+  Melvin Avenue Elementary        21
+  Menlo Avenue Elementary       -30
+  Meyler Street Elementary        2
+  Micheltorena Street Elementary        26
+  Mid-City's Prescott School of Enriched S        -18
+  Middleton Primary Center        
+  Middleton Street Elementary       30
+  Milagro Charter       -9
+  Miles Avenue Elementary       -35
+  Miramonte Elementary        32
+  Montague Charter Academy        -8
+  Montara Avenue Elementary       21
+  Monte Vista Street Elementary       -4
+  Morningside Elementary        -7
+  Morris K. Hamasaki Elementary       -39
+  Mountain View Elementary        29
+  Mt. Washington Elementary       0
+  Multicultural Learning Center       10
+  Multnomah Street Elementary       10
+  Murchison Street Elementary       -2
+  N.E.W. Academy Canoga Park        -15
+  N.E.W. Academy of Science and Arts        -41
+  Napa Street Elementary        13
+  Nestle Avenue Charter       -3
+  Nevada Avenue Elementary        14
+  Nevin Avenue Elementary       30
+  New Heights Charter       -59
+  New Open World Academy        19
+  Newcastle Elementary        -19
+  Ninety-Fifth Street Elementary        -3
+  Ninety-Ninth Street Elementary        3
+  Ninety-Second Street Elementary       -7
+  Ninety-Sixth Street Elementary        -10
+  Ninety-Third Street Elementary        -35
+  Noble Avenue Elementary       -13
+  Nora Sterry Elementary        14
+  Normandie Avenue Elementary       6
+  Normont Elementary        -20
+  Norwood Street Elementary       0
+  Nueva Vista Elementary        -8
+  O'Melveny Elementary        12
+  Ocean Charter       -95
+  Olympic Primary Center        
+  One Hundred Eighteenth Street       -27
+  One Hundred Eighty-Sixth Street Elementa        -7
+  One Hundred Fifty-Sixth Street Elementar        1
+  One Hundred Fifty-Third Street        3
+  One Hundred Ninth Street Elementary       -41
+  One Hundred Seventh Street Elementary       -29
+  One Hundred Sixteenth Street Elementary       -23
+  One Hundred Thirty-Fifth Street Elementa        -9
+  One Hundred Twelfth Street Elementary       -28
+  One Hundred Twenty-Second Street Element        25
+  Open Charter Magnet       4
+  Osceola Street Elementary       -25
+  Our Community Charter       -6
+  Overland Avenue Elementary        -12
+  Oxnard Street Elementary        -19
+  Pacific Boulevard       -16
+  Pacoima Charter Elementary        6
+  Palisades Charter Elementary        7
+  Palms Elementary        -11
+  Panorama City Elementary        -5
+  Para Los Ninos - Evelyn Thurman Gratts P        
+  Para Los Ninos Charter        24
+  Park Avenue Elementary        -30
+  Park Western Place Elementary       9
+  Parmelee Avenue Elementary        2
+  Parthenia Street Elementary       17
+  Paseo del Rey Fundamental       -19
+  Pinewood Avenue Elementary        -12
+  Plainview Academic Charter Academy        19
+  Playa del Rey Elementary        12
+  Playa Vista Elementary     0
+  Plummer Elementary        -37
+  Point Fermin Elementary       -1
+  Pomelo Community Charter        -18
+  Porter Ranch Community     0
+  President Avenue Elementary       -12
+  Puente Charter        
+  Purche Avenue Elementary        -5
+  Queen Anne Place Elementary       -21
+  Quincy Jones Elementary       51
+  Ramona Elementary       -10
+  Ranchito Avenue Elementary        -1
+  Raymond Avenue Elementary       -15
+  Reseda Elementary       -10
+  Ricardo Lizarraga Elementary        8
+  Richard Riordan Primary Center        
+  Richland Avenue Elementary        1
+  Rio Vista Elementary        -6
+  Ritter Elementary       -9
+  Riverside Drive Charter Elementary        1
+  Robert F. Kennedy Elementary        -24
+  Robert Hill Lane Elementary       24
+  Rockdale Elementary       -15
+  Rosa Parks Learning Center        -2
+  Roscoe Elementary       -12
+  Roscomare Road Elementary       5
+  Rosemont Avenue Elementary        -31
+  Rosewood Avenue Elementary        3
+  Rowan Avenue Elementary       -2
+  Russell Elementary        11
+  San Antonio Elementary        13
+  San Fernando Elementary       -21
+  San Gabriel Avenue Elementary       -5
+  San Jose Street Elementary        18
+  San Miguel Elementary       -11
+  San Pascual Avenue Elementary       -34
+  San Pedro Street Elementary       -4
+  Santa Monica Boulevard Community Charter        66
+  Sara Coughlin Elementary        -25
+  Saticoy Elementary        -9
+  Saturn Street Elementary        -36
+  Second Street Elementary        -9
+  Selma Avenue Elementary       2
+  Serrania Avenue Charter For Enriched Stu        -21
+  Seventh Street Elementary       -3
+  Seventy-Fifth Street Elementary       3
+  Seventy-Fourth Street Elementary        -2
+  Sharp Avenue Elementary       8
+  Shenandoah Street Elementary        2
+  Sheridan Street Elementary        -26
+  Sherman Oaks Elementary Charter       11
+  Shirley Avenue Elementary       -20
+  Short Avenue Elementary    0
+  Sierra Park Elementary        19
+  Sierra Vista Elementary       -21
+  Sixth Avenue Elementary       -11
+  Sixty-Eighth Street Elementary        -10
+  Sixty-First Street Elementary       9
+  Sixty-Sixth Street Elementary       -36
+  Solano Avenue Elementary        1
+  Sophia T. Salvin Special Education Cente        -10
+  Soto Street Elementary        -15
+  South Park Elementary       -36
+  South Region Elementary #10    0
+  South Region Elementary #11    0
+  South Shores/CSUDH Visual and Performing        4
+  Stagg Street Elementary       9
+  Stanford Avenue Elementary        -14
+  Stanford Primary Center       
+  Stanley Mosk Elementary       7
+  State Street Elementary       2
+  Stonehurst Avenue Elementary        -11
+  Stoner Avenue Elementary        24
+  Strathern Street Elementary       -17
+  Sunland Elementary        -15
+  Sunny Brae Avenue Elementary        24
+  Sunrise Elementary        -3
+  Superior Street Elementary        1
+  Sylmar Elementary       -24
+  Sylmar Leadership Academy    0
+  Sylvan Park Elementary        -5
+  Synergy Charter Academy       -28
+  Taper Avenue Elementary       -9
+  Tarzana Elementary        4
+  Telfair Avenue Elementary       -6
+  Tenth Street Elementary       37
+  Teresa Hughes Elementary        -17
+  Third Street Elementary       -1
+  Thirty-Second Street USC Performing Arts        8
+  Toland Way Elementary       -10
+  Toluca Lake Elementary        -2
+  Tom Bradley Global Awareness Magnet       22
+  Topanga Learn-Charter Elementary        12
+  Topeka Charter School For Advanced Studi        17
+  Towne Avenue Elementary       -55
+  Trinity Street Elementary       16
+  Tulsa Street Elementary       -10
+  Tweedy Elementary       2
+  Twentieth Street Elementary       -33
+  Twenty-Eighth Street Elementary       -23
+  Twenty-Fourth Street Elementary       -3
+  Two Hundred Thirty-Second Place       12
+  Union Avenue Elementary       0
+  Utah Street Elementary        17
+  Valerio Street Elementary       -19
+  Valley Alternative Magnet       12
+  Valley Charter Elementary       28
+  Valley Region Elementary #13     0
+  Valley View Elementary        -11
+  Van Deene Avenue Elementary       8
+  Van Gogh Charter        4
+  Van Ness Avenue Elementary        -1
+  Van Nuys Elementary       2
+  Vanalden Avenue Elementary        12
+  Vaughn Next Century Learning Center       -6
+  Vena Avenue Elementary        11
+  Vermont Avenue Elementary       -16
+  Vernon City Elementary        -1
+  Victoria Avenue Elementary        50
+  Victory Boulevard Elementary        -20
+  View Park Preparatory Accelerated Charte        -18
+  Vine Street Elementary        -20
+  Vinedale Elementary       19
+  Vintage Math/Science/Technology Magnet        -15
+  Virginia Road Elementary        8
+  Vista del Valle Dual Language Academy       2
+  Wadsworth Avenue Elementary       15
+  Walgrove Avenue Elementary        0
+  Walnut Park Elementary        -30
+  Warner Avenue Elementary        3
+  Washington Primary Center       
+  Watts Learning Center       -30
+  Weigand Avenue Elementary       -27
+  Welby Way Elementary Charter        -3
+  West Athens Elementary        3
+  West Hollywood Elementary       -6
+  West Vernon Avenue Elementary       17
+  Western Avenue Elementary       7
+  Westminster Avenue Elementary    0
+  Westport Heights Elementary       -21
+  Westside Global Awareness Magnet        23
+  Westside Innovative School House        57
+  Westwood Elementary       6
+  White Point Elementary        22
+  Wilbur Charter For Enriched Academics       -15
+  William R. Anton Elementary       -16
+  Willow Elementary    0
+  Wilmington Park Elementary        -2
+  Wilshire Crest Elementary       -36
+  Wilshire Park Elementary        8
+  Wilton Place Elementary       0
+  Windsor Hills Math Science        15
+  Winnetka Avenue Elementary        14
+  Wisdom Elementary       -9
+  Wonderland Avenue Elementary        -6
+  Woodcrest Elementary        -20
+  Woodlake Elementary Community Charter       -3
+  Woodland Hills Elementary Charter For En        8
+  Woodlawn Avenue Elementary        -4
+  Xinaxcalmecac Academia Semillas del Pueb        -51
+  YES Academy       -34
+  Yorkdale Elementary       -15
+Middle Schools        
+  Alexander Fleming Middle        8
+  Alfred B. Nobel Charter Middle        -9
+  Alliance Christine O'Donovan Middle Acad        -12
+  Alliance College-Ready Middle Academy No        -12
+  Alliance College-Ready Middle Academy No        -16
+  Alliance College-Ready Middle Academy No        0
+  Alliance Jack H. Skirball Middle        0
+  Alliance Richard Merkin Middle        18
+  Andrew Carnegie Middle        -8
+  Animo Charter Middle No. 3        39
+  Animo Charter Middle No. 4        36
+  Animo Jefferson Charter Middle        12
+  Animo Westside Charter Middle       -23
+  Aspire Centennial College Preparatory Ac        -6
+  Audubon Middle        -33
+  Barack Obama Global Preparation Academy       -2
+  Belvedere Middle        16
+  Berendo Middle        -10
+  Bert Corona Charter       43
+  Bret Harte Preparatory Middle       22
+  California Academy for Liberal Studies        -7
+  Charles Drew Middle       0
+  Charles Maclay Middle       17
+  Chester W. Nimitz Middle        7
+  Christopher Columbus Middle       -43
+  Community Charter Middle        1
+  Crown Preparatory Academy       -25
+  Daniel Webster Middle       -15
+  David Wark Griffith Middle        -11
+  Dr. Julian Nava Learning Academies-Schoo        21
+  Dr. Julian Nava Learning Academies-Schoo        31
+  Edwin Markham Middle        6
+  El Sereno Middle        8
+  Endeavor College Preparatory Charter        -7
+  Ernest Lawrence Middle        -8
+  Excel Charter Academy       -77
+  Florence Nightingale Middle       7
+  Foshay Learning Center        9
+  Francisco Sepulveda Middle        -20
+  Fred E. Lull Special Education Center       0
+  Frederick Douglass Academy Middle       1
+  Gaspar De Portola Middle        2
+  George Ellery Hale Charter Academy        -3
+  George K. Porter Middle       3
+  George Washington Carver Middle       -13
+  Glenn Hammond Curtiss Middle        3
+  Henry T. Gage Middle        8
+  Hollenbeck Middle       12
+  Horace Mann Junior High       -23
+  Hubert Howe Bancroft Middle       0
+  ICEF Vista Middle Academy       19
+  Ivy Bound Academy of Math, Science, and       -9
+  James Jordan Middle       8
+  James Madison Middle        -5
+  John A. Sutter Middle       29
+  John Adams Middle       -17
+  John Burroughs Middle       -28
+  John H. Liechty Middle        -10
+  John Muir Middle        43
+  Johnnie Cochran, Jr., Middle        4
+  Joseph Le Conte Middle        30
+  KIPP Academy of Opportunity       -33
+  KIPP Los Angeles College Preparatory        -7
+  Lakeview Charter Academy        -12
+  Los Angeles Academy Middle        13
+  Lou Dantzler Preparatory Charter Middle       -18
+  Luther Burbank Middle       -6
+  Magnolia Science Academy 2        -3
+  Magnolia Science Academy 3        -37
+  Magnolia Science Academy 5        -84
+  Magnolia Science Academy 6        -17
+  Magnolia Science Academy Bell       49
+  Marina del Rey Middle       13
+  Mark Twain Middle       -3
+  Mary McLeod Bethune Middle        0
+  Monsenor Oscar Romero Charter Middle        9
+  Mt. Gleason Middle        31
+  New Designs Charter School-Watts        -20
+  New Los Angeles Charter       18
+  Northridge Middle       -25
+  Nueva Esperanza Charter Academy       8
+  Olive Vista Middle        6
+  Oliver Wendell Holmes Middle        -2
+  Orchard Academies 2B        55
+  Orchard Academies 2C        6
+  Orville Wright Middle       -38
+  Pacoima Middle        8
+  Palms Middle        -2
+  Patrick Henry Middle        -3
+  Paul Revere Middle        -1
+  Pio Pico Middle       -13
+  Ralph Waldo Emerson Middle        -37
+  Richard E. Byrd Middle        0
+  Richard Henry Dana Middle       20
+  Robert A. Millikan Middle       -17
+  Robert E. Peary Middle        -4
+  Robert Frost Middle       9
+  Robert Louis Stevenson Middle       17
+  Roy Romer Middle        -10
+  Rudecinda Sepulveda Dodson Middle       2
+  Sal Castro Middle       -5
+  Samuel Gompers Middle       37
+  San Fernando Institute of Applied Media    0
+  San Fernando Middle       -11
+  Santa Rosa Charter Academy        26
+  South Gate Middle       -2
+  Southeast Middle        7
+  Stella Middle Charter Academy       -51
+  Stephen M. White Middle       -13
+  Sun Valley Middle       -6
+  Synergy Kinetic Academy       -20
+  TEACH Academy of Technologies       1
+  Thomas A. Edison Middle       13
+  Thomas Starr King Middle        38
+  Thurgood Marshall Charter Middle        -42
+  Triumph Academy       10
+  Valley Charter Middle       -34
+  Valor Academy Charter       -6
+  Van Nuys Middle       -9
+  View Park Preparatory Accelerated Charte        8
+  Virgil Middle       11
+  Vista Charter Middle        39
+  Vista Middle        -15
+  Walnut Park Middle A School of Social Ju     0
+  Walnut Park Middle B Science, Technology     0
+  Walter Reed Middle        7
+  Washington Irving Middle        34
+  Watts Learning Center Charter Middle        65
+  William Jefferson Clinton Middle        34
+  William Mulholland Middle       3
+  Wilmington Middle       19
+  Woodland Hills Academy        -9
+  Young Oak Kim Academy       12
+High Schools        
+  Abraham Lincoln Senior High       8
+  Academic Leadership Community       7
+  Academies of Education and Empowerment a     0
+  Academy of Environmental & Social Policy        26
+  Academy of Medical & Health Sciences at       69
+  Academy of Medical Arts at Carson High     0
+  Academy of Science and Engineering     0
+  Alain Leroy Locke 3 College Preparatory    0
+  Alexander Hamilton Senior High        15
+  Alliance Cindy and Bill Simon Technology        75
+  Alliance College-Ready Academy High No.       22
+  Alliance College-Ready Academy High No.       33
+  Alliance Dr. Olga Mohan High        12
+  Alliance Environmental Science and Techn        -11
+  Alliance Gertz-Ressler High       0
+  Alliance Health Services Academy High       3
+  Alliance Huntington Park College-Ready A        33
+  Alliance Judy Ivie Burton Technology Aca        16
+  Alliance Marc & Eva Stern Math and Scien        -10
+  Alliance Media Arts and Entertainment De        10
+  Alliance Renee and Meyer Luskin Academy    0
+  Alliance Susan and Eric Smidt Technology     0
+  Alliance Tennenbaum Family Technology Hi        65
+  Alliance William and Carol Ouchi Academy        -1
+  Alphonso B. Perez Special Education Cent        41
+  Ambassador School of Global Leadership        -7
+  Animo College Preparatory Academy       109
+  Animo Jackie Robinson High        -22
+  Animo Locke 1 College Preparatory Academ        6
+  Animo Locke II College Preparatory Acade        23
+  Animo Locke Technology High       -5
+  Animo Oscar De La Hoya Charter High       -6
+  Animo Pat Brown       4
+  Animo Ralph Bunche High       21
+  Animo South Los Angeles Charter       -13
+  Animo Venice Charter High       -20
+  Animo Watts College Preparatory Academy       18
+  APEX Academy        32
+  Arleta High       29
+  ARTLAB at Sonia Sotomayor Learning Acade        -17
+  Aspire Pacific Academy        4
+  Augustus F. Hawkins High A Critical Desi     0
+  Augustus F. Hawkins High B Community Hea     0
+  Augustus F. Hawkins High C Responsible I     0
+  Bell Senior High        16
+  Belmont Senior High       26
+  Benjamin Banneker Special Education Cent        23
+  Benjamin Franklin Senior High       21
+  Birmingham Community Charter High       12
+  Bright Star Secondary Charter Academy       -20
+  CA Academy for Liberal Studies Early Col        7
+  Camino Nuevo Charter High       -10
+  Canoga Park Senior High       -2
+  Carson Senior High        -12
+  Central City Value        29
+  Cesar E. Chavez Learning Academies-Acade        43
+  Cesar E. Chavez Learning Academies-Arts,        -13
+  Cesar E. Chavez Learning Academies-Socia        -19
+  Cesar E. Chavez Learning Academies-Teach        41
+  CHAMPS - Charter HS of Arts-Multimedia &        -5
+  Chatsworth Senior High        -1
+  CIVITAS School of Leadership        21
+  Communication and Technology at Diego Ri        56
+  Community Charter Early College High        3
+  Crenshaw Arts-Technology Charter High       -39
+  Crenshaw Senior High        -16
+  Daniel Pearl Journalism & Communications        -13
+  David Starr Jordan Senior High        6
+  Discovery Charter Preparatory No. 2       -54
+  Downtown Business High        12
+  Eagle Rock High       3
+  Early College Academy for Leaders and Sc        49
+  East Los Angeles Performing Arts Academy        21
+  East Los Angeles Renaissance Academy at       9
+  East Valley Senior High       6
+  Edward R. Roybal Learning Center        23
+  El Camino Real Charter High       -4
+  Elizabeth Learning Center       -4
+  Engineering and Technology Academy at Es        5
+  Ernest P. Willenberg Special Education C        3
+  Fairfax Senior High       21
+  Francisco Bravo Medical Magnet High       5
+  Frank Lanterman       -50
+  Frederick Douglass Academy High       -10
+  Gardena Senior High       8
+  George Washington Preparatory High        10
+  Granada Hills Charter High        8
+  Green Design at Diego Rivera Learning Co        22
+  Grover Cleveland High       19
+  Harbor Teacher Preparation Academy        -13
+  Helen Bernstein High        33
+  High Tech LA        12
+  Hilda L. Solis Learning Academy School o     0
+  Hollywood Senior High       9
+  Humanitas Academy of Art and Technology       -17
+  Humanitas Art School at Roosevelt High        66
+  Huntington Park Senior High       22
+  International Studies Learning Center at        27
+  James A. Garfield Senior High       4
+  James Monroe High       -3
+  John C. Fremont Senior High       41
+  John F. Kennedy High        10
+  John H. Francis Polytechnic       7
+  John Marshall Senior High       20
+  King/Drew Medical Magnet High       17
+  Lakeview Charter High       -38
+  Leadership in Entertainment and Media Ar     0
+  Linda Esperanza Marquez High A Huntingto     0
+  Linda Esperanza Marquez High B LIBRA Aca     0
+  Linda Esperanza Marquez High C School of     0
+  Los Angeles Academy of Arts & Enterprise        59
+  Los Angeles Center for Enriched Studies       -11
+  Los Angeles High School of the Arts (LAH        -27
+  Los Angeles Leadership Academy        -10
+  Los Angeles River at Sonia Sotomayor Lea        9
+  Los Angeles School of Global Studies        -6
+  Los Angeles Senior High       -3
+  Los Angeles Teachers Preparatory Academy        6
+  Lou Dantzler Preparatory Charter High       16
+  Magnolia Science Academy        -8
+  Magnolia Science Academy 4        -6
+  Manual Arts Senior High       34
+  Math, Science, & Technology Magnet Acade        71
+  Maywood Academy High        37
+  Middle College High       6
+  Miguel Contreras Learning Complex       28
+  Nathaniel Narbonne Senior High        19
+  New Designs Charter       32
+  New Millennium Secondary        -23
+  North Hollywood Senior High       8
+  North Valley Charter Academy        -6
+  Northridge Academy High       20
+  Orthopaedic Hospital        6
+  Palisades Charter High        8
+  Panorama High       0
+  Performing Arts Community at Diego River        67
+  Phineas Banning Senior High       -19
+  Port of Los Angeles High        -6
+  Public Service Community at Diego Rivera        18
+  Ramon C. Cortines School of Visual and P        4
+  Rancho Dominguez Preparatory        -8
+  Renaissance Arts Academy        -9
+  Reseda Senior High        -4
+  Robert Fulton College Preparatory       9
+  San Fernando Senior High        -5
+  San Pedro Senior High       3
+  Santee Education Complex        24
+  School for the Visual Arts and Humanitie        -5
+  School of Communications, New Media and       57
+  School of Engineering and Technology        45
+  School of History and Dramatic Arts at S        35
+  School of Law & Government at Roosevelt       65
+  School of Math and Science        76
+  School of Science, Technology, Engineeri        66
+  Science, Technology, Engineering, and Me     0
+  Science, Technology, Engineering, Arts a     0
+  Sherman Oaks Center for Enriched Studies        -3
+  Social Justice Leadership Academy at Est        16
+  Social Justice Schools: Fine Arts Academ        53
+  Social Justice Schools: Global Issues Ac        62
+  South East High       11
+  South Gate Senior High        16
+  South Region High #12A Technology, Arts    0
+  South Region High #12B Academy for Multi     0
+  Student Empowerment Academy       14
+  Sun Valley High       -6
+  Susan Miller Dorsey Senior High       -14
+  Sylmar Senior High        32
+  Synergy Quantum Academy       68
+  Thomas Jefferson Senior High        12
+  Triumph Charter High        
+  UCLA Community        -17
+  Ulysses S. Grant Senior High        -1
+  University Senior High        -3
+  USC Hybrid High    0
+  Valley Academy of Arts and Sciences       38
+  Van Nuys Senior High        5
+  Venice Senior High        23
+  Verdugo Hills Senior High       0
+  View Park Preparatory Accelerated High        -11
+  Visual and Performing Arts at Legacy Hig     0
+  Wallis Annenberg High       -5
+  WESM Health/Sports Medicine       2
+  West Adams Preparatory High       15
+  William Howard Taft Senior High       -5
+  Woodrow Wilson Senior High        5
+Small Schools       
+  Amanecer Primary Center       -64
+  Anahuacalmecac International University       6
+  Ann Street Elementary       34
+  Berenece Carlson Home Hospital        38
+  Celerity Cardinal Charter       30
+  Charles Leroy Lowman Special Education C        39
+  CHIME Charter Middle        20
+  Citizens of the World 2    0
+  Diane S. Leichman Special Education Cent        52
+  Dorothy V. Johnson Community Day        104
+  Dr. James Edward Jones Primary Center       -5
+  Frances Blend Special Education Center        61
+  Garza (Carmen Lomas) Primary Center       61
+  Hollywood Primary Center        -48
+  Jack London Community Day       63
+  James J. McBride Special Education Cente        -83
+  Joaquin Miller Career and Transition Cen        65
+  Joseph Pomeroy Widney High        86
+  KIPP Comienza Community Prep     0
+  KIPP Philosophers Academy    0
+  KIPP Scholar Academy     0
+  Lexington Avenue Primary Center       14
+  Los Angeles Big Picture High        -1
+  Los Angeles Leadership Primary Academy     0
+  Mariposa-Nabi Primary Center        -21
+  Para Los Ninos Middle       8
+  Primary Academy for Success       49
+  Rise Kohyang Middle    0
+  Sven Lokrantz Special Education Center        35
+ASAM Schools        
+  Aggeler Community Day       
+  Albert Einstein Continuation        -1
+  Amelia Earhart Continuation       -11
+  Angel's Gate (Continuation)       -112
+  Avalon High       -7
+  Boyle Heights Continuation        112
+  Cal Burke High        -32
+  CDS Elementary        
+  CDS Secondary       23
+  Central High        -27
+  Cheviot Hills Continuation        -46
+  City of Angels        -12
+  Eagle Tree Continuation       -52
+  Ellington (Duke) High (Continuation)        -29
+  Evergreen Continuation        65
+  Frida Kahlo High        26
+  George S. Patton Continuation    0
+  Harold McAlister High (Opportunity)       -59
+  Harris Newmark Continuation       9
+  Henry David Thoreau Continuation        34
+  Highland Park Continuation        21
+  Independence Continuation       -130
+  Jack London Continuation        -19
+  Jane Addams Continuation        43
+  John Hope Continuation        45
+  John R. Wooden High       0
+  Los Angeles Unified Alternative Educatio        
+  Metropolitan Continuation       -53
+  Miguel Leonis Continuation        
+  Mission Continuation        84
+  Moneta Continuation       -32
+  Monterey Continuation       -73
+  Mt. Lukens Continuation       39
+  New Village Charter High        4
+  Odyssey Continuation        71
+  Owensmouth Continuation       55
+  Phoenix Continuation        -73
+  Pueblo de Los Angeles Continuation        -65
+  Ramona Opportunity High       -89
+  Richard A. Alonzo Community Day       45
+  Robert H. Lewis Continuation        27
+  San Antonio Continuation        58
+  Simon Rodia Continuation        1
+  Stoney Point Continuation       -102
+  Thomas Riley High       46
+  Tri-C Community Day       4
+  View Park Continuation        -76
+  West Hollywood Opportunity        -12
+  Whitman Continuation        30
+  Whitney Young Continuation        46
+  Will Rogers Continuation        -28
+  William J. Johnston Community Day       2
+  William Tell Aggeler Opportunity High    0
+  Youth Opportunities Unlimited       43
+  Zane Grey Continuation        -36

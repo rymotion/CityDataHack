@@ -1,36 +1,42 @@
-#this is a basic server
-import socket
-import sys
+#!/usr/bin/env python
+
+from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 import os
-import webbrowser
-import cgi
-import cgitb
 
+#Create custom HTTPRequestHandler class
+class KodeFunHTTPRequestHandler(BaseHTTPRequestHandler):
+  
+  #handle GET command
+  def do_GET(self):
+    rootdir = 'c:/xampp/htdocs/' #file location
+    try:
+      if self.path.endswith('.html'):
+        f = open(rootdir + self.path) #open requested file
 
-HOST = '' # Symbolic name, meaning all available interfaces
-PORT = 9000 # arbitrary non-privilege port 
+        #send code 200 response
+        self.send_response(200)
 
-s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-print 'socket created'
+        #send header first
+        self.send_header('Content-type','text-html')
+        self.end_headers()
 
-#bind socket
-try:
-	s.bind((HOST, PORT))
-except socket.error as msg:
-	print 'Bind failed. Error Code : ' + str(msg[0]) + ' Message: ' + msg[1]
-	sys.exit()
-print 'Socket bind complete'
+        #send file content to client
+        self.wfile.write(f.read())
+        f.close()
+        return
+      
+    except IOError:
+      self.send_error(404, 'file not found')
+  
+def run():
+  print('http server is starting...')
 
-# Listen for response ten seconds before time out
-s.listen(10)
-print 'Socket listening on port: ' + str(PORT)
-
-#talk to client
-while (1):
-	#wait for response 
-	conn, addr = s.accept()
-	print 'Client listening on: ' + addr[0] + ':' + str(addr[1])
-s.close()
-
-def browseLocal(webPageText, filename = 'page.html'):
-
+  #ip and port of servr
+  #by default http server port is 80
+  server_address = ('127.0.0.1', 80)
+  httpd = HTTPServer(server_address, KodeFunHTTPRequestHandler)
+  print('http server is running...')
+  httpd.serve_forever()
+  
+if __name__ == '__main__':
+  run()
