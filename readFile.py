@@ -1,3 +1,4 @@
+#read the .csv files and parse as json to javascript code for maps
 import csv
 import json
 
