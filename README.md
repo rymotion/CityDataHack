@@ -1,8 +1,7 @@
 On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+	modified:   README.md
 
-Initial commit
-
-Untracked files:
-	README.md
-
-nothing added to commit but untracked files present
+no changes added to commit
