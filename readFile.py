@@ -2,5 +2,6 @@
 import csv
 import json
 
-csvfile = open('.csv', 'r')
+with open('Colleges_and_Universities.csv', 'r') as csvfile:
+	#i don't know what to write anymore I need coffee 
 jsonfile = open()

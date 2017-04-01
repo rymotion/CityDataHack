@@ -1,6 +1,12 @@
 #this is a basic server
 import socket
 import sys
+import os
+import webbrowser
+import cgi
+import cgitb
+
+
 HOST = '' # Symbolic name, meaning all available interfaces
 PORT = 9000 # arbitrary non-privilege port 
 
@@ -25,3 +31,6 @@ while (1):
 	conn, addr = s.accept()
 	print 'Client listening on: ' + addr[0] + ':' + str(addr[1])
 s.close()
+
+def browseLocal(webPageText, filename = 'page.html'):
+
