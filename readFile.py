@@ -1,7 +1,17 @@
 #read the .csv files and parse as json to javascript code for maps
 import csv
-import json
 
-with open('Colleges_and_Universities.csv', 'r') as csvfile:
-	#i don't know what to write anymore I need coffee 
-jsonfile = open()
+f = open('Schools_LAUSD.csv')
+csv_f = csv.reader(f)
+
+
+for row in csv_f:
+	x = row[0]
+	y = row[1]
+
+	name = row[4]
+	
+	CoorDic = {'X': x, 'Y': y, 'School': name}
+
+	print x
+	print y
